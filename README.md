@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <B> Howard Jackson @howbjack </B>
 - 👀 I’m interested in learning CI/CD and DevOps 
-- 🌱 I’m currently learning Python and Github 
+- 🌱 I’m currently learning Python and GitHub 
 - 📫 How to reach me ...howardbjackson@yahoo.com
 
 <!---
